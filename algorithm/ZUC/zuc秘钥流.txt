@@ -1,0 +1,14 @@
+初始密钥= 00000000000000000000000000000000
+IV= 00000000000000000000000000000000
+密钥流长度= 00000002
+密钥流= 27bede74018082da
+
+初始密钥= ffffffffffffffffffffffffffffffff
+IV= ffffffffffffffffffffffffffffffff
+密钥流长度 = 00000002
+KeyStream = 0657cfa07096398b
+
+初始密钥= 3d4c4be96a82fdaeb58f641db17b455b
+IV= 84319aa8de6915ca1f6bda6bfbd8c766
+密钥流长度= 00000002
+密钥流= 14f1c2723279c419

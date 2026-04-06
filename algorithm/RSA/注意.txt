@@ -1,0 +1,1 @@
+RSA的密钥格式为：N||D||P||Q||QIVN||DP||DQ，若无法获知|P||Q||QIVN||DP||DQ的数据，请补00，其中算法为RSA1024时，P、Q、QIVN、DP、DQ为64字节；算法为RSA2048时，P、Q、QIVN、DP、DQ为128字节。

@@ -1,0 +1,42 @@
+# 临时文件
+*.tmp
+*.log
+*.pyc
+__pycache__/
+*.swp
+
+# 可执行文件和动态链接库
+*.exe
+*.out
+*.bin
+*.so
+*.dll
+*.dylib
+
+# 原始测试文件（已解压，不需要提交）
+algorithm.rar
+algorithm.rar.backup
+
+# 测试输出
+output/
+results/
+test_reports/
+demo_reports/
+
+# 构建产物
+build/
+dist/
+gmssl/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# 环境
+venv/
+.env
+
+# 系统
+.DS_Store
+Thumbs.db
