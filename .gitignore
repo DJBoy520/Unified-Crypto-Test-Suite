@@ -17,6 +17,9 @@ __pycache__/
 algorithm.rar
 algorithm.rar.backup
 
+# 测试向量文本文件
+algorithm/**/*.txt
+
 # 测试输出
 output/
 results/
